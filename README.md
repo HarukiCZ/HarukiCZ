@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HarukiCZ
+- 👀 I’m interested in IT & IoT
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on any project
