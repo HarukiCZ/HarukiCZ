@@ -3,6 +3,7 @@
 <a href="https://www.npmjs.com/package/hideko-caching"><img src="https://img.shields.io/badge/dependency-hideko--caching-blue?logo=npm&logoColor=white" alt="dependency - hideko-caching"></a> <a href="https://www.linux.org/" title="Go to Linux homepage"><img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white" alt="OS - Linux"></a> <img src="https://img.shields.io/badge/maintained-yes-blue" alt="maintained - yes">
 </div>
 <h3 align="center">Developer from czech republic</h3>
+
 - 🔭 I’m currently working on [Hideko Discord bot](https://docs.hideko.eu/)
 
 - 🌱 I’m currently learning **home automation**
