@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">Developer from czech republic</h3>
-
+<a href="https://www.npmjs.com/package/hideko-caching"><img src="https://img.shields.io/badge/dependency-hideko--caching-blue?logo=npm&logoColor=white" alt="dependency - hideko-caching"></a>
 - 🔭 I’m currently working on [Hideko Discord bot](https://docs.hideko.eu/)
 
 - 🌱 I’m currently learning **home automation**
