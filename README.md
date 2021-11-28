@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Developer from czech republic</h3>
 
 - 🔭 I’m currently working on [Hideko Discord bot](https://docs.hideko.eu/)
 
